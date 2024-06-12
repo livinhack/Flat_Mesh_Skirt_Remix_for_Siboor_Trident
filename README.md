@@ -5,7 +5,7 @@
 - Remixed for Siboor AWD Trident
 - With or without screen
 - Some corrections
-- Front skirt adjusted for ClickyClack-Door
+- Front skirt adjusted for Clicky-Clack-Door
 - Only 300/350 (Siboor doesn't offer 250)
 
 
