@@ -1,6 +1,6 @@
-# WIP #
+## A Remix of Thejiral's [Flat Mesh Skirt for Voron Trident](https://www.printables.com/de/model/644512-flat-mesh-skirt-voron-trident-350300250mm) ##
 
-A Remix of Thejiral's Flat Mesh Skirt for Voron Trident https://www.printables.com/de/model/644512-flat-mesh-skirt-voron-trident-350300250mm
+![skirt](https://github.com/livinhack/Flat-Mesh-Skirt-Remix-for-Siboor-Trident/assets/91290219/ad63c3dd-bdef-4863-b476-530c4e68279e)
 
 - Remixed for Siboor AWD Trident
 - With or without screen
@@ -15,3 +15,5 @@ A Remix of Thejiral's Flat Mesh Skirt for Voron Trident https://www.printables.c
 ![ins-mod](https://github.com/livinhack/Flat-Mesh-Skirt-Remix-for-Siboor-Trident/assets/91290219/8482607b-9f4d-451d-b3c7-2b79b1690abb)
 ![ins-0](https://github.com/livinhack/Flat-Mesh-Skirt-Remix-for-Siboor-Trident/assets/91290219/bce7617f-c196-4ca9-b4fb-125bd76d6ec8)
 ![ins-fin](https://github.com/livinhack/Flat-Mesh-Skirt-Remix-for-Siboor-Trident/assets/91290219/e8cdbd44-39f0-4700-bc12-1fe5184b364c)
+
+You can play with the infill choice, density, and angle as you like!
