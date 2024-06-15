@@ -1,0 +1,1 @@
+For the side without fans, please grab the files from LoganFraser's [Trident Inverted Electronics Bay Mod](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/LoganFraser/TridentInvertedElectronics).
